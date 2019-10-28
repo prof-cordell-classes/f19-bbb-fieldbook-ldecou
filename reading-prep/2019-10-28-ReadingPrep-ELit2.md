@@ -2,7 +2,7 @@
 
 #### Lia DeCoursey
 
-##Questions/Observations
+## Questions/Observations
 
 1. The piece of E-Lit I chose to look at from the electronic literature collection was a piece called soundpoems by Joerg Piringer. I thought it was interesting to explore the different way that the reader could interact with the soundpoems. For example, in the "food chain" section, the user could either randomly click around and let the consonant and vowel sounds form arbitrarily, or intentionally click in front of a consonant to make a certain consonant-vowel pair.
 
